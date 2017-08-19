@@ -1,9 +1,18 @@
 '----------------------------------------------------------
-' Script	: Retrieve Windows installation informations (all OS between XP to W10 - 32 and 64 bits)
-' Version	: 1.0
-' Date		: 04/08/2017
-' Author	: Stéphane PAUTREL
+' Plugin for OCS Inventory NG 2.x
+' Script :		Retrieve Windows installation informations
+' Version :		1.00
+' Date :		04/08/2017
+' Author :		Stéphane PAUTREL (acb78.com)
 '----------------------------------------------------------
+' OS checked on		32b	64b	(Professionnal edition)
+'	Windows XP		[O]	[ ]
+'	Windows 7		[O]	[O]
+'	Windows 8.1		[O]	[O]
+'	Windows 10		[O]	[O]
+' ---------------------------------------------------------
+' NOTE : No checked on Windows Vista and Windows 8
+' ---------------------------------------------------------
 On Error Resume Next
 
 Const HKEY_LOCAL_MACHINE = &H80000002
