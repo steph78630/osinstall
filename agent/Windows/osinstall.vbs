@@ -5,7 +5,7 @@
 ' Date :		04/08/2017
 ' Author :		Stéphane PAUTREL (acb78.com)
 '----------------------------------------------------------
-' OS checked on		32b	64b	(Professionnal edition)
+' OS checked [x] on		32b	64b	(Professionnal edition)
 '	Windows XP		[X]	[ ]
 '	Windows 7		[X]	[X]
 '	Windows 8.1		[X]	[X]
